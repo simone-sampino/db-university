@@ -79,10 +79,4 @@ Infine, andiamo a definire le colonne e i tipi di dato di ogni tabella.
 
 - student_id
 - exam_id
-
-### Vote
-
-- id
-- student_id
-- exam_id
 - vote
